@@ -1,0 +1,411 @@
+[
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v002",
+    "titulo": "Analista de Dados Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v002",
+    "empresa": "Pinhão Dados",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": 700000,
+    "salario_max": 950000,
+    "publicada": "2026-10-08",
+    "tags": [
+      "python",
+      "pandas",
+      "sql",
+      "power bi"
+    ],
+    "descricao": "A Pinhão Dados procura uma pessoa para a posição de Analista de Dados Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v001",
+    "titulo": "Desenvolvedor(a) Python Júnior",
+    "url": "http://127.0.0.1:8080/vagas/v001",
+    "empresa": "Orbita Software",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Híbrido",
+    "nivel": "Júnior",
+    "salario_min": 450000,
+    "salario_max": 450000,
+    "publicada": "2026-10-08",
+    "tags": [
+      "python",
+      "django",
+      "sql"
+    ],
+    "descricao": "A Orbita Software procura uma pessoa para a posição de Desenvolvedor(a) Python Júnior, nível Júnior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v004",
+    "titulo": "Estágio em Desenvolvimento Web",
+    "url": "http://127.0.0.1:8080/vagas/v004",
+    "empresa": "Cafeteria Digital",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Estágio",
+    "salario_min": 180000,
+    "salario_max": 180000,
+    "publicada": "2026-10-07",
+    "tags": [
+      "html",
+      "css",
+      "javascript"
+    ],
+    "descricao": "A Cafeteria Digital procura uma pessoa para a posição de Estágio em Desenvolvimento Web, nível Estágio. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v003",
+    "titulo": "Engenheiro(a) de Software Sênior",
+    "url": "http://127.0.0.1:8080/vagas/v003",
+    "empresa": "Araucária Labs",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Sênior",
+    "salario_min": 1400000,
+    "salario_max": 1800000,
+    "publicada": "2026-10-07",
+    "tags": [
+      "java",
+      "spring",
+      "kubernetes"
+    ],
+    "descricao": "A Araucária Labs procura uma pessoa para a posição de Engenheiro(a) de Software Sênior, nível Sênior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v006",
+    "titulo": "DevOps Júnior",
+    "url": "http://127.0.0.1:8080/vagas/v006",
+    "empresa": "Orbita Software",
+    "cidade": "São José dos Pinhais",
+    "uf": "PR",
+    "modalidade": "Híbrido",
+    "nivel": "Júnior",
+    "salario_min": null,
+    "salario_max": null,
+    "publicada": "2026-10-06",
+    "tags": [
+      "docker",
+      "linux",
+      "ci"
+    ],
+    "descricao": "A Orbita Software procura uma pessoa para a posição de DevOps Júnior, nível Júnior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v005",
+    "titulo": "Desenvolvedor(a) Front-end Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v005",
+    "empresa": "Serra Azul Tech",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": 800000,
+    "salario_max": 1000000,
+    "publicada": "2026-10-06",
+    "tags": [
+      "react",
+      "typescript"
+    ],
+    "descricao": "A Serra Azul Tech procura uma pessoa para a posição de Desenvolvedor(a) Front-end Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v008",
+    "titulo": "Cientista de Dados Sênior",
+    "url": "http://127.0.0.1:8080/vagas/v008",
+    "empresa": "Araucária Labs",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Sênior",
+    "salario_min": 1500000,
+    "salario_max": 1500000,
+    "publicada": "2026-10-05",
+    "tags": [
+      "python",
+      "machine learning"
+    ],
+    "descricao": "A Araucária Labs procura uma pessoa para a posição de Cientista de Dados Sênior, nível Sênior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v007",
+    "titulo": "Analista de QA Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v007",
+    "empresa": "Pinhão Dados",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Híbrido",
+    "nivel": "Pleno",
+    "salario_min": 550000,
+    "salario_max": 700000,
+    "publicada": "2026-10-05",
+    "tags": [
+      "testes",
+      "selenium",
+      "python"
+    ],
+    "descricao": "A Pinhão Dados procura uma pessoa para a posição de Analista de QA Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v010",
+    "titulo": "Analista de Suporte N2",
+    "url": "http://127.0.0.1:8080/vagas/v010",
+    "empresa": "Serra Azul Tech",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Pleno",
+    "salario_min": 320050,
+    "salario_max": 320050,
+    "publicada": "2026-10-04",
+    "tags": [
+      "suporte",
+      "linux",
+      "redes"
+    ],
+    "descricao": "A Serra Azul Tech procura uma pessoa para a posição de Analista de Suporte N2, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v009",
+    "titulo": "Desenvolvedor(a) Backend Júnior",
+    "url": "http://127.0.0.1:8080/vagas/v009",
+    "empresa": "Cafeteria Digital",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Júnior",
+    "salario_min": 420000,
+    "salario_max": 520000,
+    "publicada": "2026-10-04",
+    "tags": [
+      "node",
+      "postgres"
+    ],
+    "descricao": "A Cafeteria Digital procura uma pessoa para a posição de Desenvolvedor(a) Backend Júnior, nível Júnior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v012",
+    "titulo": "Desenvolvedor(a) Mobile Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v012",
+    "empresa": "Pinhão Dados",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Híbrido",
+    "nivel": "Pleno",
+    "salario_min": null,
+    "salario_max": 1100000,
+    "publicada": "2026-10-03",
+    "tags": [
+      "kotlin",
+      "android"
+    ],
+    "descricao": "A Pinhão Dados procura uma pessoa para a posição de Desenvolvedor(a) Mobile Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v011",
+    "titulo": "Engenheiro(a) de Dados Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v011",
+    "empresa": "Orbita Software",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": 900000,
+    "salario_max": 1200000,
+    "publicada": "2026-10-03",
+    "tags": [
+      "spark",
+      "python",
+      "airflow"
+    ],
+    "descricao": "A Orbita Software procura uma pessoa para a posição de Engenheiro(a) de Dados Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v014",
+    "titulo": "Estágio em Ciência de Dados",
+    "url": "http://127.0.0.1:8080/vagas/v014",
+    "empresa": "Serra Azul Tech",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Estágio",
+    "salario_min": 200000,
+    "salario_max": 200000,
+    "publicada": "2026-10-02",
+    "tags": [
+      "python",
+      "estatística"
+    ],
+    "descricao": "A Serra Azul Tech procura uma pessoa para a posição de Estágio em Ciência de Dados, nível Estágio. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v013",
+    "titulo": "UX Designer Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v013",
+    "empresa": "Araucária Labs",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": null,
+    "salario_max": null,
+    "publicada": "2026-10-02",
+    "tags": [
+      "figma",
+      "pesquisa"
+    ],
+    "descricao": "A Araucária Labs procura uma pessoa para a posição de UX Designer Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v016",
+    "titulo": "Desenvolvedor(a) Go Sênior",
+    "url": "http://127.0.0.1:8080/vagas/v016",
+    "empresa": "Orbita Software",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Sênior",
+    "salario_min": 1300000,
+    "salario_max": 1600000,
+    "publicada": "2026-10-01",
+    "tags": [
+      "go",
+      "microsserviços"
+    ],
+    "descricao": "A Orbita Software procura uma pessoa para a posição de Desenvolvedor(a) Go Sênior, nível Sênior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v015",
+    "titulo": "Analista de Segurança Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v015",
+    "empresa": "Cafeteria Digital",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": 850000,
+    "salario_max": 850000,
+    "publicada": "2026-10-01",
+    "tags": [
+      "segurança",
+      "redes"
+    ],
+    "descricao": "A Cafeteria Digital procura uma pessoa para a posição de Analista de Segurança Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v018",
+    "titulo": "Analista de BI Júnior",
+    "url": "http://127.0.0.1:8080/vagas/v018",
+    "empresa": "Pinhão Dados",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Júnior",
+    "salario_min": 400000,
+    "salario_max": 400000,
+    "publicada": "2026-09-30",
+    "tags": [
+      "sql",
+      "power bi"
+    ],
+    "descricao": "A Pinhão Dados procura uma pessoa para a posição de Analista de BI Júnior, nível Júnior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v017",
+    "titulo": "Tech Lead",
+    "url": "http://127.0.0.1:8080/vagas/v017",
+    "empresa": "Araucária Labs",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "modalidade": "Híbrido",
+    "nivel": "Sênior",
+    "salario_min": 1700000,
+    "salario_max": 1700000,
+    "publicada": "2026-09-30",
+    "tags": [
+      "liderança",
+      "arquitetura"
+    ],
+    "descricao": "A Araucária Labs procura uma pessoa para a posição de Tech Lead, nível Sênior. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v020",
+    "titulo": "Administrador(a) de Banco de Dados",
+    "url": "http://127.0.0.1:8080/vagas/v020",
+    "empresa": "Serra Azul Tech",
+    "cidade": "São José dos Pinhais",
+    "uf": "PR",
+    "modalidade": "Presencial",
+    "nivel": "Pleno",
+    "salario_min": 950000,
+    "salario_max": 950000,
+    "publicada": "2026-09-29",
+    "tags": [
+      "postgres",
+      "mysql"
+    ],
+    "descricao": "A Serra Azul Tech procura uma pessoa para a posição de Administrador(a) de Banco de Dados, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  },
+  {
+    "fonte": "mural-tech",
+    "id_externo": "v019",
+    "titulo": "Desenvolvedor(a) PHP Pleno",
+    "url": "http://127.0.0.1:8080/vagas/v019",
+    "empresa": "Cafeteria Digital",
+    "cidade": null,
+    "uf": null,
+    "modalidade": "Remoto",
+    "nivel": "Pleno",
+    "salario_min": 600000,
+    "salario_max": 800000,
+    "publicada": "2026-09-29",
+    "tags": [
+      "php",
+      "laravel"
+    ],
+    "descricao": "A Cafeteria Digital procura uma pessoa para a posição de Desenvolvedor(a) PHP Pleno, nível Pleno. Você vai trabalhar em um time pequeno, com entregas semanais.",
+    "indisponiveis": []
+  }
+]

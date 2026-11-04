@@ -1,0 +1,25 @@
+2026-11-04 17:14:05,356 INFO    execução 5 terminou: falha (2 pedidos, 0 repetições)
+2026-11-04 17:14:32,733 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 17:14:54,773 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 17:14:54,795 INFO    vagas: 1 novas, 0 atualizadas, 0 iguais, 0 inativadas
+2026-11-04 17:14:55,778 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 17:14:55,792 INFO    eventos: 1 novas, 0 atualizadas, 0 iguais, 0 inativadas
+2026-11-04 17:14:55,838 INFO    execução 6 terminou: ok (24 pedidos, 0 repetições)
+2026-11-04 17:19:39,715 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 17:20:01,750 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 17:20:01,768 INFO    vagas: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:20:02,755 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 17:20:02,771 INFO    eventos: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:20:02,783 INFO    execução 7 terminou: ok (24 pedidos, 0 repetições)
+2026-11-04 17:55:44,383 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 17:56:06,408 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 17:56:06,424 INFO    vagas: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:56:07,424 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 17:56:07,436 INFO    eventos: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:56:07,478 INFO    execução 8 terminou: ok (24 pedidos, 0 repetições)
+2026-11-04 18:02:09,270 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 18:02:31,307 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 18:02:31,337 INFO    vagas: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 18:02:32,310 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 18:02:32,329 INFO    eventos: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 18:02:32,370 INFO    execução 9 terminou: ok (24 pedidos, 0 repetições)

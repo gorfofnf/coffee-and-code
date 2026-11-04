@@ -1,0 +1,12 @@
+2026-11-04 17:55:44,383 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 17:56:06,408 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 17:56:06,424 INFO    vagas: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:56:07,424 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 17:56:07,436 INFO    eventos: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 17:56:07,478 INFO    execução 8 terminou: ok (24 pedidos, 0 repetições)
+2026-11-04 18:02:09,270 INFO    robots.txt lido; espera entre pedidos: 1.00s
+2026-11-04 18:02:31,307 INFO    vagas: 20 coletadas, 0 erros
+2026-11-04 18:02:31,337 INFO    vagas: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 18:02:32,310 INFO    eventos: 8 coletados, 0 erros
+2026-11-04 18:02:32,329 INFO    eventos: 0 novas, 1 atualizadas, 1 iguais, 0 inativadas
+2026-11-04 18:02:32,370 INFO    execução 9 terminou: ok (24 pedidos, 0 repetições)
